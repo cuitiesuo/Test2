@@ -29,8 +29,10 @@ public class Test123Application {
 		System.out.println("我还是数字 ，该出通途了");
 		System.out.println("2222");
 		System.out.println("我还是1");
+		System.out.println("你还来");
 		System.out.println("再来一次");
 		System.out.println("你还来");
+		System.out.println("冲突好烦啊");
 
 	}
 }
