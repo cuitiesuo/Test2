@@ -25,6 +25,7 @@ public class Test123Application {
 		System.out.println("16");
 		System.out.println("17");
         System.out.println("20");
+		System.out.println("我是数字 ，该出通途了");
 
 	}
 }
