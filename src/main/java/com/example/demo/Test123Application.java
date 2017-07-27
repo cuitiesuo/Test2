@@ -36,5 +36,6 @@ public class Test123Application {
 		System.out.println("最好一次成啊");
 		System.out.println("咋回事");
 		System.out.println("我也不知道啊");
+		System.out.println("是不是终于成功了");
 	}
 }
