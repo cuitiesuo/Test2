@@ -41,6 +41,7 @@ public class Test123Application {
 		System.out.println("好的 我也想去tree玩玩");
 		System.out.println("再来再来");
 		System.out.println("嗯嗯  不要不要");
+		System.out.println("天王盖地虎");
 		System.out.println("闹他真和要");
 	}
 }
