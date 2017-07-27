@@ -39,5 +39,6 @@ public class Test123Application {
 		System.out.println("是不是终于成功了");
 		System.out.println("好像是的");
 		System.out.println("好的 我也想去tree玩玩");
+		System.out.println("嗯嗯  不要不要");
 	}
 }
