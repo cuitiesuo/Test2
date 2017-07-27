@@ -44,6 +44,5 @@ public class Test123Application {
 		System.out.println("天王盖地虎");
 		System.out.println("闹他真和要");
 		System.out.println("哈哈哈哈  张晓斌");
-		System.out.println("好累啊");
 	}
 }
