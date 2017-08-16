@@ -136,6 +136,6 @@ public class Test123Application {
 		System.out.println("我是苏鸡鸡鸡鸡光");
 
 		System.out.println("对 你就是素鸡");
-
+		System.out.println("90");
 	}
 }
